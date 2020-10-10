@@ -93,7 +93,7 @@ function answer(x) {
                 return;
                 }
                 else if (question.slice(0,10).includes("!TUTORIAL") ) {
-                    botSays("\n\n**What? I don't have a tutorial. Read my code, I'm not going to explain myself."); botChat.scrollTop = botChat.scrollHeight;
+                    botSays("\n\n Change your name with !name yourName. Chat normally with words like hello."); botChat.scrollTop = botChat.scrollHeight;
                 return;
                 }
                 else if (question.slice(0,10).includes("!BOTSAY") ) {
@@ -163,7 +163,7 @@ function answer(x) {
                   var reactPleasant = ""
                     Else = false;
                       setTimeout(botSays, 600, "\nBot : " + reactHello + ".")
-                } else { } }  setTimeout( function() { if (Else === true) {botSays("\n\n**Error 404: Response Not Found."); } } , 700);  setTimeout( function() {Else = true; botChat.scrollTop = botChat.scrollHeight;}, 730)
+                } else { } }  setTimeout( function() { if (Else === true) {botSays("\n\n**Response Not Found."); } } , 700);  setTimeout( function() {Else = true; botChat.scrollTop = botChat.scrollHeight;}, 730)
             } function botSays(x) {
                 document.getElementsByTagName("textarea")[0].innerHTML += x;
             } function youSay(x) { botSays("\n"+ you + " \ : " + x)
