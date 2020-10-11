@@ -1,3 +1,4 @@
+/*All code is owned by https://github.com/aayushgenius/AlphaQuad/ with an Apache 2.0 liscence */
 // When the user scrolls down 50px from the top of the document, resize the header's font size
 window.onscroll = function() {scrollFunction()};
 
