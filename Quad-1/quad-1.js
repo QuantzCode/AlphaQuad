@@ -1,4 +1,4 @@
-//This code is with an Apache 2.0 licsence with  https://github.com/aayushgenius/AlphaQuad
+//This code is with an Apache 2.0 licsence with  https://github.com/AlphaQuads/AlphaQuad
     
 var you = "Me";
 botSays("Thanks for checking out QUAD-1 chatBot (me).\nI am in BETA. I recently learned 20 html tags.  \n\nType !name x where x = yourName to change your name.\nTo chat, click Talk to me or press Enter(pc) or Go(android)\nType help for a hint\n\n\n***")
