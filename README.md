@@ -15,6 +15,6 @@ The 3rd version. Added new responses. Design style stayed the same
 ## Quad-1.3
 Latest chatbot, it might be the last. Made the bot style different. Changed responses a little bit. 
 
-## Contribution
+# Contribution
 Make a pull request and put your contribution
 
